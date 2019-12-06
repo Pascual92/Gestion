@@ -59,8 +59,14 @@
 								Empleos.com					
 							</h1>
 							<p>
-								En empleos.com puedes encontrar los empleos que estas buscando, al igual que empleos que ofreces
+								En empleos.com puedes encontrar los empleos que estas buscando, al igual que empleos que ofreces 
 							</p>
+							<br>
+							<p>
+								Necesitas un empleo?.  Empleos.Com es tu mejor opcion 
+							</p>
+							<br>
+							
 							<a href="logeo/" class="primary-btn header-btn text-uppercase">Comenzar</a>
 						</div>												
 					</div>
