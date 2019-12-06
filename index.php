@@ -56,7 +56,7 @@
 						<div class="banner-content col-lg-7 col-md-12">
 
 							<h1>
-								Empleos.com					
+								Empleos1.com					
 							</h1>
 							<p>
 								En empleos.com puedes encontrar los empleos que estas buscando, al igual que empleos que ofreces 
